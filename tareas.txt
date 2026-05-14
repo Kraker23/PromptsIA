@@ -1,7 +1,47 @@
 Tareas:
-1. crear linea de comentario de Cristian
-
+1. crear linea de comentario de Cristian Jira
+    - que no tenga que pedir permisos para revisar la rama y obtener la fecha cada vez
 
 2. crear descripcion de los cambios, para hacer un registro de que se ha hecho
 
 
+
+3. Crear un prompt de automatizacion para copiar los prompts a la carpeta de promps de VSCode
+
+
+
+4.Prompt de Documentar confluence proyecto
+	-> Actua como analista funcional y crea la documentación de la solición. 
+    Siendo por una parte, paginas de documentación funcional y otro grupo de páginas con documentación técnica.
+     Guardalo todo en una carpeta.
+	
+
+5. Promp analisis del proyectos (con sonet y profiler)
+	-> Actua como un arquitecto y analiza la solución. Propón posibles mejoras y explica el porque. 
+    Exporta el resultado a un md
+	
+6. Crear unas instrucciones Base de Github Copilot
+Crea `.github/copilot-instructions.md` con relgas que quieras que Copilot respete **siempre** 
+    (estilo de codigo, idioma, convenciones).
+    VStudio -> en la raiz del repo 
+    VsCode -> En la carptea de prompts del usuario
+
+
+Ejemplo minimo:
+
+```md
+# Copilot Instructions
+
+- Responde en espanol.
+- Sigue las convenciones de `Prompts_IA/Docs/08-Normalizacion-Prompts.md`
+  cuando se trabaje con prompt files.
+- No incluyas datos sensibles en los ejemplos.
+- Que tipo de perfil eres
+
+
+
+Carpetas Relevantes
+//carpeta VsCode
+C:\Users\Cristian\AppData\Roaming\Code\User\prompts
+//carpeta de VStudio
+// es la carpeta de cada proyecto raiz ".github/prompts/losPromps"
