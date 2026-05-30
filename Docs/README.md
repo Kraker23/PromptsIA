@@ -41,10 +41,38 @@ Prompts_IA/
       _template.prompt.md
       Chuleta-Rapida-_template.md
       Guia-Comando-_template.md
-    Comment/                         <-- ejemplo de prompt real
+    Comment/
       Comment.prompt.md
       Chuleta-Rapida-Comment.md
       Guia-Comando-Comment.md
+    CommentJira/
+      CommentJira.prompt.md
+      Chuleta-Rapida-CommentJira.md
+      Guia-Comando-CommentJira.md
+    CrearBaseConocimiento/
+      CrearBaseConocimiento.prompt.md
+      Chuleta-Rapida-CrearBaseConocimiento.md
+      Guia-Comando-CrearBaseConocimiento.md
+    CrearBaseConocimientoEstricto/
+      CrearBaseConocimientoEstricto.prompt.md
+      Chuleta-Rapida-CrearBaseConocimientoEstricto.md
+      Guia-Comando-CrearBaseConocimientoEstricto.md
+    CrearBaseConocimientoExtenso/
+      CrearBaseConocimientoExtenso.prompt.md
+      Chuleta-Rapida-CrearBaseConocimientoExtenso.md
+      Guia-Comando-CrearBaseConocimientoExtenso.md
+    CrearBaseConocimientoExtensoEstricto/
+      CrearBaseConocimientoExtensoEstricto.prompt.md
+      Chuleta-Rapida-CrearBaseConocimientoExtensoEstricto.md
+      Guia-Comando-CrearBaseConocimientoExtensoEstricto.md
+    DocumentacionIncidencias/
+      DocumentacionIncidencias.prompt.md
+      Chuleta-Rapida-DocumentacionIncidencias.md
+      Guia-Comando-DocumentacionIncidencias.md
+    DocumentacionIncidenciasEstricto/
+      DocumentacionIncidenciasEstricto.prompt.md
+      Chuleta-Rapida-DocumentacionIncidenciasEstricto.md
+      Guia-Comando-DocumentacionIncidenciasEstricto.md
   tareas.txt
 ```
 
